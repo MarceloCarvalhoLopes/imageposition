@@ -1,0 +1,27 @@
+﻿.header{
+	background:blue;
+	height: 150px;
+	padding: 5px 5px 0 0;
+	
+}
+.site-logo{
+	/*float:left;*/
+	margin-top:10px;
+	margin-left:200px;
+	float:left;
+}
+.site-logo img{
+	width:300px;
+}
+
+.texto-cabecalho p{
+	float:right;
+	max-width:500px;
+	margin-left:10px;
+}
+
+
+.wrapper{
+	margin:0;
+	background:tomato;
+}
